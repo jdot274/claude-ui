@@ -28,7 +28,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
     "highlight.js": "^11.10.0",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.3.3",
     "nuxt": "^3.13.2",
     "nuxt-auth-utils": "^0.5.5",
     "prettier": "^3.3.3",
